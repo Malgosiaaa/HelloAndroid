@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="layout_marginLeft">8dp</dimen>
+    <dimen name="layout_marginRight">8dp</dimen>
+    <dimen name="layout_marginTop">8dp</dimen>
+    <dimen name="layout_marginBottom">8dp</dimen>
+    <dimen name="regular_fontSize">14sp</dimen>
+    <dimen name="regular_padding">15dp</dimen>
+    <dimen name="uppercase">20sp</dimen>
+    <dimen name="text_layout_marginRight">20dp</dimen>
+    <dimen name="text_layout_marginTop">40dp</dimen>
+
+</resources>
